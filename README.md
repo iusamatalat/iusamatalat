@@ -38,6 +38,5 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=iusamatalat&theme=dark&ring=FF8C00&fire=FFD700&currStreakNum=FFD700&sideNums=FF8C00&currStreakLabel=FFD700&sideLabels=FF8C00&dates=FFF8DC&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=iusamatalat&theme=dark&ring=FF8C00&fire=FFD700&currStreakNum=FFD700&sideNums=FF8C00&currStreakLabel=FFD700&sideLabels=FF8C00&dates=FFF8DC&hide_border=false" alt="GitHub Streak" />
 </div>
-
